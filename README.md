@@ -17,13 +17,13 @@
 
 Créer un fichier.txt contenant 3 prénoms  
 
-**Travail à réaliser : **  
+**Travail à réaliser :**
 
 + Réaliser un script PHP qui lire le fichier  
 + Ajouter au fichier.txt un nouveau prénom  
 
 
-** Indice : **  
+**Indice :**  
 
 + file_get_contents  
 
