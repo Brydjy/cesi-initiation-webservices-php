@@ -36,8 +36,7 @@ Créer un fichier.txt contenant 3 prénoms
 
 
 
-** Indice : **  
-
+**Indice :**  
 + Il n’est pas obligatoire de créer le fichier en amont  
 
 ## Exercice 2 : Créer son propre webservice  
@@ -50,8 +49,7 @@ Il devra y avoir au minimum les champs suivants :
 + Un texte de minimum 10 caractères  
 + Une date au format lisible Américain  
 
-** Indice : **  
-
+**Indice :**
 + json encode  
 + Header application/json  
 + Pas d’HTML  
@@ -59,13 +57,11 @@ Il devra y avoir au minimum les champs suivants :
 ### Test N°1 : Récupérer son webservices
 Récupérer à l’aide de jQuery le résultat du JSON créé précédemment.  
 
-**Travail à réaliser : **  
-
+**Travail à réaliser :**
 + Lors du clic sur le bouton « récupérer articles » la réponse dans la console du navigateur  
 + Afficher ensuite proprement la liste des articles dans la page en cours
 
-**Indice : **  
-
+**Indice :**
 + Console.log  
 + Fonction Ajax de jQuery  
 + Type GET  
@@ -73,14 +69,12 @@ Récupérer à l’aide de jQuery le résultat du JSON créé précédemment.
 ### Test N°3 : Insérer dans une base de données  
 Créer un script PHP qui va, lors de son appel, insérer des données dans une base de données. Nous restons sur le thème des articles de blog.   
 
-** Travail à réaliser : **  
-
+**Travail à réaliser :**
 + Lors du clic sur le bouton « insérer un nouvel article » l’insertion doit se déclencher  
 + Insérer un nouvel article dans la base de données  
 + Afficher le résultat ainsi que les données nouvellement insérées  
 
-**Indice : **  
-
+**Indice :**
 + Type POST  
 
 ## Exercice 3 : Les webservices déjà existants
@@ -91,8 +85,7 @@ Créer un script PHP qui va, lors de son appel, insérer des données dans une b
 ### Test N°1 : Récupérer les données d’un webservices gérant le JSONP  
 Flickr  
 
-**Travail à réaliser : **  
-
+**Travail à réaliser :**
 + Récupérer l’url du webservice au format JSONP
 + Récupérer en Ajax le résultat de l’appel de l’URL  
 + Récupérer le nom du groupe pour chaque groupe de parking (voir doc API)  
@@ -106,29 +99,25 @@ Flickr
 [URL API Nantes](http://data.nantes.fr/donnees/choix-des-formats/)  
 [URL pour l’exercice](http://data.nantes.fr/donnees/fonctionnement-de-lapi/getdisponibiliteparkingspublics/)  
 
-** Travail à réaliser : **  
-
+**Travail à réaliser :**
 + Récupérer l’url du webservice au format JSON
 + Récupérer en Ajax le résultat de l’appel de l’URL 
 + Récupérer le nom du groupe pour chaque groupe de parking (voir doc API)
 + Tester avec différentes fonction jQuery
 
-** Indice : **
-
+**Indice :**
 + Security Cross Domain à désactiver
 + Propriétés Raccourci Chrome & web Security  
 
 ### Test N°3 : Récupérer les données d’un webservice au format JSON (Proxy)  
 [URL API Nantes](http://data.nantes.fr/donnees/choix-des-formats/)
 
-** Travail à réaliser : **  
-
+**Travail à réaliser :**
 + Récupérer l’url de l’exercice précédent
 + Récupérer le résultat de l’appel de l’URL via Ajax et Proxy PHP
 + Récupérer le nom du groupe et le nombre de places disponibles pour chaque groupe de parking (voir doc API)
 
-** Indice : **  
-
+**Indice :**
 + Proxy en PHP
 + Appel du Proxy en Ajax
 + Deux URL en une seule, une URL qui en cache une autre
