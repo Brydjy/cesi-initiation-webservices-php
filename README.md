@@ -66,7 +66,7 @@ Récupérer à l’aide de jQuery le résultat du JSON créé précédemment.
 + Fonction Ajax de jQuery  
 + Type GET  
 
-### Test N°3 : Insérer dans une base de données  
+### Test N°2 : Insérer dans une base de données  
 Créer un script PHP qui va, lors de son appel, insérer des données dans une base de données. Nous restons sur le thème des articles de blog.   
 
 **Travail à réaliser :**
