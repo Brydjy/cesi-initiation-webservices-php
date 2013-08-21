@@ -18,20 +18,17 @@
 Créer un fichier.txt contenant 3 prénoms  
 
 **Travail à réaliser :**
-
 + Réaliser un script PHP qui lire le fichier  
 + Ajouter au fichier.txt un nouveau prénom  
 
 
-**Indice :**  
-
+**Indice :**
 + file_get_contents  
 
 ### Test N°2 : écrire dans un fichier log avec la méthode fopen
 Créer un fichier.txt contenant 3 prénoms  
 
-**Travail à réaliser : **  
-
+**Travail à réaliser :**
 + Réaliser un script PHP qui créer le fichier à la volée  
 + Ouvrir le fichier.log  
 + Ecrire dans le fichier.log une nouvelle entrée  
