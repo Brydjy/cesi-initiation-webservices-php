@@ -126,7 +126,6 @@ Flickr
 ### Test N°4 : Récupérer les données d’un webservice au format JSON (Proxy) et les insérer dans une base de données
 [URL API Nantes](http://data.nantes.fr/donnees/choix-des-formats/)  
 
-** Travail à réaliser : **  
-
+**Travail à réaliser :**
 + Même travail que précédemment
 + Récupérer des données, les traiter et les stocker en base de données. (système de cache PHP, chercher PHP Proxy Cache, github)
